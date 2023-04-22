@@ -14,6 +14,7 @@
 |課題番号|タイトル|
 |:-------|:-------|
 |   01   | [Fizz Buzzプログラム](./ch01/chapter01.md)|
+|   02   | [九九の表](./ch02/chapter02.md)|
 
 # LICENSE
 MIT LICENSE
