@@ -13,11 +13,11 @@
   - 例：<user_name>/ch01ブランチのPull Requestを作成し、1 approvalを取得した後にmainブランチにマージする。
 
 # 課題
-|課題番号|タイトル|
-|:-------|:-------|
-|   01   | [Fizz Buzzプログラム](./ch01/chapter01.md)|
-|   02   | [九九の表](./ch02/chapter02.md)|
-|   03   | [catコマンド](./ch03/chapter03.md)|
+|課題番号|タイトル|Kotlin|PHP|
+|:-------|:-------|:-------|:-------|
+|   01   | [Fizz Buzzプログラム](./ch01/chapter01.md)|○|☓|
+|   02   | [九九の表](./ch02/chapter02.md)|☓|☓|
+|   03   | [catコマンド](./ch03/chapter03.md)|☓|☓|
 
 # LICENSE
 MIT LICENSE
